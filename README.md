@@ -12,7 +12,7 @@
  
 - 🔭 Working at [Kinesso](https://kinesso.com/)  
  
- 🌱 I’m currently mastering my skills **D, Supabase, AWS**
+ 🌱 I’m currently mastering my skills **Smart Contracts, Web3 Security, AWS**
 
 💬 Ask me about **Solidity, Rust, JavaScript, TypeScript Node.js, React, ... or anything [here](https://github.com/fran1014/fran1014/issues)**
 
