@@ -10,7 +10,7 @@
 
 <div align="center">
  
-- 🔭 Working at [Kinesso](https://kinesso.com/)  
+ 🔭 Working at [Kinesso](https://kinesso.com/)  
  
  🌱 I’m currently mastering my skills **Smart Contracts, Web3 Security, AWS**
 
