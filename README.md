@@ -11,7 +11,7 @@
  
  🔭 Working at [Domoblock](https://www.domoblock.io/)  
  
- 🌱 I’m currently mastering my skills **Smart Contracts, Web3 Security, AWS**
+ 🌱 I’m currently mastering my skills **Smart Contracts, Web3 Security, DevOps**
 
 💬 Ask me about **Solidity, Rust, JavaScript, TypeScript Node.js, React, ... or anything [here](https://github.com/fran1014/fran1014/issues)**
 
