@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 Working at [Kinesso](https://kinesso.com/)  
+ 🔭 Working at [Domoblock](https://www.domoblock.io/)  
  
  🌱 I’m currently mastering my skills **Smart Contracts, Web3 Security, AWS**
 
